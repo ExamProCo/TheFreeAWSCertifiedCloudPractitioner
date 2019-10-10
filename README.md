@@ -2,38 +2,31 @@
 
 Courtesy of [ExamPro.co](https://www.exampro.co)
 
-|  Introduction |   |
+| Title | Duration |
 | --- | ---: |
+|  Introduction |   |
 | [Meet Your Instructor Andrew Brown](https://youtu.be/B4kl23udOKo) | 1:09 |
 | [Why Get AWS Cloud Practitioner Certified?](https://youtu.be/dh00WNoQDNk) |	5:56 |
 | [Exam Guide Overview](https://youtu.be/G9nw8BP7J_U) | 3:11 |
-
-| Cloud - Concepts	|   |	
-| --- | ---: |
+| __Cloud - Concepts__	|   |	
 | [What is Cloud Computing?](https://youtu.be/ZgLfYMT_268) | 2:09|
 | [Six Advantages and Benefits of Cloud Computing](https://youtu.be/9x6E6Q9V7S4) |2:29|
 | [Types of Cloud Computing](https://youtu.be/dWBMGkLwlr8) |2:00|
 | [Cloud Computing Deployment Models](https://youtu.be/4swFLJKSgRU) |2:36|
-
-| AWS Global Infrastructure	 |   |	
-| --- | ---: |	
+| __AWS Global Infrastructure__	 |   |	
 | [Introduction and Map Overview](https://youtu.be/EHBye-9Pa88) |0:58|
 | [Regions](https://youtu.be/E2ejWe3ZTL4) |3:55|
 | [Availability Zones](https://youtu.be/lMyuyl44fBo) |1:08|
 | [Edge Locations](https://youtu.be/CZEkafBjyhA) |1:41|
 | [GovCloud Regions](https://youtu.be/2j_fecY-gQc) |1:49|
-
-| Getting Started	|   |	
-| --- | ---: |
+| __Getting Started__	|   |	
 | [Creating an AWS Account](https://youtu.be/sNByVUDvGTw) |3:19|
 | [Billing Preferences, Budgets and Alarms](https://youtu.be/vUTiJTj4mCg) |7:21|
 | [Change IAM Users Sign-in Link](https://youtu.be/UY5YoIGHzfE) |1:01|
 | [Activate MFA on Root Account](https://youtu.be/0NxVIyA0KYw) |2:22|
 | [Create individual IAM user](https://youtu.be/ce9z72cw6J8) |4:59|
 | [Set a password policy](https://youtu.be/B3hyqtJBlmU) |1:02|
-
-| Hands On	|   |	
-| --- | ---: |
+| __Hands On__	|   |	
 | [Intro and Regions](https://youtu.be/r1_iwP6KBVo) |1:08|
 | [EC2](https://youtu.be/grLo5Ty4D6E) |4:29|
 | [AMI](https://youtu.be/K9B86Nsr8kE) |1:52|
@@ -44,18 +37,14 @@ Courtesy of [ExamPro.co](https://www.exampro.co)
 | [CloudFront](https://youtu.be/a7DfWYNM-Kw) |2:18|
 | [RDS](https://youtu.be/C_4W5cEJzuA) |5:04|
 | [Lambda](https://youtu.be/SRjHGi_poTU) |3:24|
-
-| EC2 Pricing Models	|   |	
-| --- | ---: |
+| __EC2 Pricing Models__	|   |	
 | [Introduction](https://youtu.be/8OVaBMxTo4c) |0:15|
 | [On-Demand](https://youtu.be/VmennRU88Xg) |0:32|
 | [Reserved](https://youtu.be/tre6f6LSR8Y) |2:31|
 | [Spot](https://youtu.be/Uu1VpkM4P58) |1:42|
 | [Dedicated](https://youtu.be/XnhVFn9FSqc) |1:28|
 | [EC2 Pricing CheatSheet](https://youtu.be/litdMMFzyWU) |2:48|
-
-| Billing and Pricing	|   |	
-| --- | ---: |
+| __Billing and Pricing__	|   |	
 | [Free Services](https://youtu.be/uuJa0BXY7g4) |0:59|
 | [AWS Support Plans](https://youtu.be/A3522VCDy4A) |3:52|
 | [Follow Along - Lets create a support case](https://youtu.be/rsGmd8bmCDg) |3:56|
@@ -76,9 +65,7 @@ Courtesy of [ExamPro.co](https://www.exampro.co)
 | [AWS QuickStart](https://youtu.be/7aj4YGdfkaE) |3:03 |
 | [AWS Cost and Usage Report](https://youtu.be/GhmEXVZvyvI) |0:40|
 | [Cost and Usage Follow Along](https://youtu.be/oaEqeDy7IZY) |2:43 |
-
-| Technology Overview	|   |	
-| --- | ---: |
+| __Technology Overview__	|   |	
 | [AWS Organizations and Accounts](https://youtu.be/y4ll-0sBeNs) |1:20 |
 | [AWS Organizations Follow Along](https://youtu.be/9tsP6FuS89Y) |12:26 |
 | [AWS Networking](https://youtu.be/S2wGc8DSr2s) |3:08 |
@@ -90,9 +77,7 @@ Courtesy of [ExamPro.co](https://www.exampro.co)
 | [Enterprise Integration](https://youtu.be/EqcCuQ1vk8o) |1:41 |
 | [Logging Services](https://youtu.be/_0nB3aYIGUU) |3:16 |
 | [Know your Initialisms](https://youtu.be/tan4YgFDE80) |1:12 |
-
-| Security |   |
-| --- | ---: |		
+| __Security__ |   |	
 | [Shared Responsibility Model](https://youtu.be/DunFc6m1oIU) |1:41 |
 | [AWS Compliance programs](https://youtu.be/5XWQK4U6T70) |2:20 |
 | [AWS Artifact](https://youtu.be/LJk58xinWCI) |1:01 |
@@ -105,9 +90,7 @@ Courtesy of [ExamPro.co](https://www.exampro.co)
 | [Key Management Service](https://youtu.be/HRpGZ7BRGbs) |1:33 |
 | [Amazon Macie](https://youtu.be/zRHy0O28xBw) |2:11 |
 | [Security Groups vs NACLs](https://youtu.be/BsgSj-lVj0g) |1:51 |
-
-| Variation Study |   |	
-| --- | ---: |
+| __Variation Study__ |   |	
 | [Cloud* Service](https://youtu.be/XIKeFhEz53M) |2:00 |
 | [*Connect Service](https://youtu.be/1z0D7RNqKog) |1:09 |
 | [Elastic Transcoder vs Media Convert](https://youtu.be/nLXeLHROhC8) |1:17 |
