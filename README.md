@@ -4,7 +4,7 @@ Courtesy of [ExamPro.co](https://www.exampro.co)
 
 | Title | Duration |
 | --- | ---: |
-|  Introduction |   |
+|  __Introduction__ |   |
 | [Meet Your Instructor Andrew Brown](https://www.youtube.com/watch?v=B4kl23udOKo&list=PLBfufR7vyJJ4fOplWPOtYqRyQ6YPMsBsF) | 1:09 |
 | [Why Get AWS Cloud Practitioner Certified?](https://www.youtube.com/watch?v=dh00WNoQDNk&list=PLBfufR7vyJJ4fOplWPOtYqRyQ6YPMsBsF) |	5:56 |
 | [Exam Guide Overview](https://www.youtube.com/watch?v=G9nw8BP7J_U&list=PLBfufR7vyJJ4fOplWPOtYqRyQ6YPMsBsF) | 3:11 |
